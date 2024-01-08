@@ -16,7 +16,7 @@
 
 In this lab, you will be using Git and Github to fork, clone, commit, and push changes to a repository. The repository you will select to use as the repository to fork to your own Github account can be one of the following:
 
-- [Lab 08 repository](https://github.com/qtalr/lab-07)
+- [Lab 08 repository](https://github.com/qtalr/lab-08)
 - [Minimal template](https://github.com/qtalr/project)
 - [Web-based project template](https://github.com/qtalr/project_web)
 - Other (consult your instructor)
@@ -51,7 +51,7 @@ In your analysis process file,
 
 3. add a section for each analytical process you will be using to explore the question(s). In this section, you will document with code, code comments, and prose the process of exploring the data. This is where you will craft the code to explore the data. Feel free to use existing R packages and functions as you see fit.
 
-4. Make sure to organize your analysis process in a way that is reproducible. This means that you should be able to run the code in your  process file and reproduce the process. Use the `data/analysis` (or similar) directory to store any derived datasets used in the analysis.
+4. Make sure to organize your analysis process in a way that is reproducible. This means that you should be able to run the code in your  process file and reproduce the process (use `set.seed()` for any sampling process, for example). Use the `data/analysis` (or similar) directory to store any derived datasets used in the analysis.
 
 5. Make sure that your code is well documented with code comments and that you have included prose to describe the process of analyzing the dataset.
 
@@ -59,7 +59,7 @@ In your analysis process file,
 
 7. Confirm that your code runs without errors and that the code, visualizations, and/ or tables are displayed as expected.
 
-8. Finally, commit and push your changes to your Github repository.
+8. Finally, commit and push your changes to your Github repository. *Make sure to include files or directories that you do not have permission to share in your `.gitignore` file.*
 
 ### Assessing your progress
 
