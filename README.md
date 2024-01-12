@@ -1,4 +1,4 @@
-# Lab 08: Employing exploratory methods
+# Lab 08: Pattern discovery
 
 ## Preparation
 
