@@ -2,7 +2,7 @@
 
 ## Preparation
 
-- Read/ annotate: [Recipe \#8](https://qtalr.github.io/qtalrkit/articles/recipe-8.html). You can refer back to this document to help you at any point during this lab activity.
+- Read/ annotate: [Recipe \#8](https://qtalr.com/resources/recipes/recipe-08/). You can refer back to this document to help you at any point during this lab activity.
 
 ## Objectives
 
